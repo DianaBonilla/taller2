@@ -1,0 +1,35 @@
+import turtle
+import os
+##Diana Bonilla
+##letra del nombre
+t = turtle.Pen()
+t.reset()
+t.color(1,0,1)
+t.begin_fill()
+t.left(90)
+t.forward(220)
+t.right(90)
+t.forward(100)
+t.right(90)
+t.forward(40)
+t.right(90)
+t.forward(60)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(60)
+t.right(90)
+t.forward(40)
+t.right(90)
+t.forward(60)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(60)
+t.right(90)
+t.forward(40)
+t.right(90)
+t.forward(100)
+t.end_fill()
+
+
